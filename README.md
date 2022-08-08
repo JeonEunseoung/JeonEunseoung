@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=EunSeoung%20Jeon&fontSize=90)
 [![JeonEunseoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonEunseoung)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jjjes758@naver.com})](https://solved.ac/{jjjes758@naver.com})
