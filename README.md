@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=EunSeoung%20Jeon&fontSize=90)<br>
-[![JeonEunseoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonEunseoung)](https://github.com/JeonEunseoung/github-readme-stats)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjjes758)](https://solved.ac/jjjes758/)<br>
+[![JeonEunseoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonEunseoung)](https://github.com/JeonEunseoung/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjjes758)](https://solved.ac/jjjes758/)<br>
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
