@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm BACKEND Developer 👋
 
 <!--
 **JeonEunseoung/JeonEunseoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=EunSeoung%20Jeon&fontSize=90)<br>
 [![JeonEunseoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonEunseoung)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jjjes758})](https://solved.ac/{jjjes758})<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjjes758)](https://solved.ac/jjjes758/)<br>
