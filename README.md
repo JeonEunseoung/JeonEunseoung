@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=EunSeoung%20Jeon&fontSize=90)<br><br>
-### Hi I'm EunSeoung Jeon, dreaming of becoming a Backend developer. 👋
+### Hi I'm EunSeoung Jeon, working as Backend developer in Ahnlab. 👋
 [![JeonEunseoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonEunseoung)](https://github.com/JeonEunseoung/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjjes758)](https://solved.ac/jjjes758/)<br>
@@ -30,4 +30,9 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+
+![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)
+![apachekafka](https://img.shields.io/badge/apachekafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
+
+
 
